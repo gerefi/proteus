@@ -1,6 +1,5 @@
 # PROTEUS
 
-_protean: able to do many different things; versatile._
 
 A high-featured board compatible with [gerefi](https://github.com/gerefi/gerefi) firmware.
 
@@ -10,7 +9,7 @@ TL;DR [Proteus Manual](https://github.com/gerefi/gerefi/wiki/Proteus-Manual)
 
 ## Goals
 
-- Run my LS-swapped Volvo 240 with factory harness and equipment
+- Run LS-swapped Volvo 240 with factory harness and equipment
 - Run a sequential ignition, quad-VVT v12 engine (twelve injectors, twelve ignition, five hall sensors, four VVT actuators, dual throttles)
 - Easily manufactured sealed enclosure (all connectors mount in-plane)
 - Extensible for knock sensing
